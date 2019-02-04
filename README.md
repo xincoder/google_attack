@@ -1,6 +1,7 @@
 ## Hongyang & Xin
 
-### This repository is used to record the best defense result of our team, trained by TRADESv2. 
+### This repository is used to record the best defense result of our team, trained by TRADESv2.
+(TRADESv1 paper is [here](https://arxiv.org/pdf/1901.08573.pdf))
 
 #### Bird or Bicycle dataset
 All percentages above correspond to the model's accuracy at 80% coverage.
