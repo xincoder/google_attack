@@ -1,6 +1,6 @@
 ## Hongyang & Xin
 
-### This repository is used to record the best defense result of our team, trained by TRADESv2.
+### This repository is used to record the best defense result of our team, trained by TRADESv2 on ResNet-50.
 (TRADESv1 [[paper]](https://arxiv.org/pdf/1901.08573.pdf) [[code]](https://github.com/yaodongyu/TRADES))
 
 #### Bird or Bicycle dataset
