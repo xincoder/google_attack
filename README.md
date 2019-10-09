@@ -22,10 +22,7 @@ ___
   ```
 
 - Step 2: Download our pre-trained weight:
-  ``` bash
-  cd google_attack
-  wget http://carina.cse.lehigh.edu/xin_attack/res50_28_best.pt
-  ```
+  https://drive.google.com/file/d/1l7uZW73gMzwvBDR5WWOXVPY1vWX3WEk4/view?usp=sharing and put it into the folder "google_attack"
   
 - Step 3: Run the code:
   ``` bash
