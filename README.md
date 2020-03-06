@@ -16,7 +16,7 @@ All percentages above correspond to the model's accuracy at 80% coverage.
 ___
 
 ### To test the performance of our model:
-- Step 1: Clone and install relavent depedency following the instructions:
+- Step 1: Clone and install the dependencies following the instructions:
 https://github.com/google/unrestricted-adversarial-examples/tree/master/bird-or-bicycle
 
 - Step 2: Download our evaluation code:
