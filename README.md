@@ -1,6 +1,6 @@
 ## Hongyang & Xin
 
-### This repository is used to record the best defense result of our team, trained by TRADESv2 on ResNet-50 (without using any extra data or ImageNet adversarial pretraining).
+### This repository is used to record the defense result of our team, trained by TRADESv2 on ResNet-50 (without using any extra data or ImageNet adversarial pretraining). The checkpoint does not represent the best performance limit of TRADESv2.
 (TRADESv1 [[paper]](https://arxiv.org/pdf/1901.08573.pdf) [[code]](https://github.com/yaodongyu/TRADES))
 
 #### Bird or Bicycle dataset
