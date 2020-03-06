@@ -16,15 +16,18 @@ All percentages above correspond to the model's accuracy at 80% coverage.
 ___
 
 ### To test the performance of our model:
-- Step 1: Download our evaluation code:
+- Step 1: Clone and install relavent depedency following the instructions:
+https://github.com/google/unrestricted-adversarial-examples/tree/master/bird-or-bicycle
+
+- Step 2: Download our evaluation code:
   ``` bash
   git clone https://github.com/xincoder/google_attack.git
   ```
 
-- Step 2: Download our pre-trained weight:
+- Step 3: Download our pre-trained weight:
   https://drive.google.com/file/d/1l7uZW73gMzwvBDR5WWOXVPY1vWX3WEk4/view?usp=sharing and put it into the folder "google_attack"
   
-- Step 3: Run the code:
+- Step 4: Run the code:
   ``` bash
   python eval_hongyangxin.py
   ```
