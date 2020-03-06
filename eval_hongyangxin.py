@@ -11,7 +11,7 @@ from models_pretrained import *
 import torch.nn.functional as F
 import torchvision
 from torchvision import transforms
-from utils import load_data, majority_vote
+# from utils import load_data, majority_vote
 import bird_or_bicycle
 from itertools import chain
 from unrestricted_advex import eval_kit
